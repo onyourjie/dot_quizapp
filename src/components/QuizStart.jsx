@@ -436,7 +436,7 @@ const QuizStart = () => {
                 <h2 className="text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-2">
                   Recent Quiz History
                 </h2>
-                <p className="text-gray-700">Track your progress and improvement 📊</p>
+                <p className="text-gray-700">Track your progress and improvement</p>
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
